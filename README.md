@@ -1,4 +1,4 @@
-## about me
+## ABOUT ME
 ### 📍Kraków, Poland
 ### 🏛️AGH
 ### cybersecurity student
