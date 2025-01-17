@@ -2,6 +2,8 @@
 ### 📍Kraków, Poland
 ### 🏛️AGH cybersecurity student
 Zobacz moją stronę internetową: [WojciechSliwa.github.io](https://WojciechSliwa.github.io)
+Fork repozytorium: https://github.com/WojciechSliwa/micro_diffusion.git
+Link do artukułu: https://paperswithcode.com/paper/stretching-each-dollar-diffusion-training
 
 <!--
 **WojciechSliwa/WojciechSliwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
