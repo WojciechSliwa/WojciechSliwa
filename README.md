@@ -1,7 +1,7 @@
 ## ABOUT ME
 ### 📍Kraków, Poland
 ### 🏛️AGH cybersecurity student
-Zobacz moją stronę internetową: [WojciechSliwa.github.io](https://WojciechSliwa.github.io)
+
 
 <!--
 **WojciechSliwa/WojciechSliwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
